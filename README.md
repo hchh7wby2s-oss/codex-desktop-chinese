@@ -30,4 +30,4 @@ Codex Desktop 内置了中文翻译资源（12270 条），但因 Statsig 服务
 
 ## License
 
-MIT
+GPL-3.0
